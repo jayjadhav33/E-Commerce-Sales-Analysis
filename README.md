@@ -59,7 +59,7 @@ As a data analyst at an e-commerce company, analyse 12 months of sales data to:
 
 | Total Revenue | Total Orders | Top Category | Best Month |
 |---|---|---|---|
-| R$ 5,962,902 | 43,428 | bed_bath_table | 2017-11 |
+| $ 5,962,902 | 43,428 | bed_bath_table | 2017-11 |
 
 ## Visualisations
 
@@ -72,10 +72,10 @@ As a data analyst at an e-commerce company, analyse 12 months of sales data to:
 
 ## Key Findings
 
-- **Diversified categories:** `bed_bath_table` leads with R$ 490,597 (8.2% of revenue), but the top three categories are within R$ 17,000 of each other, so no single category dominates.
-- **Strong November peak:** Revenue grew from R$ 111,798 in January to R$ 987,765 in November (about 8.8x), then fell 26% in December.
+- **Diversified categories:** `bed_bath_table` leads with $ 490,597 (8.2% of revenue), but the top three categories are within $ 17,000 of each other, so no single category dominates.
+- **Strong November peak:** Revenue grew from $ 111,798 in January to $ 987,765 in November (about 8.8x), then fell 26% in December.
 - **Regional concentration:** São Paulo alone contributes 35.8% of revenue. SP, RJ, and MG together account for about 62%.
-- **Growth from volume, not basket size:** Average order value stayed between R$ 124 and R$ 149 all year (overall R$ 137.31).
+- **Growth from volume, not basket size:** Average order value stayed between $ 124 and $ 149 all year (overall $ 137.31).
 - **High satisfaction with a problem area:** The average review score is 4.17 / 5, but 1-star reviews (9.0%) are nearly three times as common as 2-star reviews (3.1%).
 
 ## Business Recommendations
@@ -112,5 +112,5 @@ ecommerce-sales-analysis/
 
 ## Author
 
-**[Your Name]**
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+**[Jay Jadhav]**
+[GitHub](https://github.com/jayjadhav33)
